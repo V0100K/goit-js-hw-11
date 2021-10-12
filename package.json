@@ -28,6 +28,7 @@
   "dependencies": {
     "@popperjs/core": "^2.10.2",
     "axios": "^0.22.0",
+    "lightbox2": "^2.11.3",
     "lodash.debounce": "^4.0.8",
     "notiflix": "^3.1.0",
     "simplelightbox": "^2.9.0"
